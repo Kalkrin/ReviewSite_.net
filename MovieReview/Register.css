@@ -1,0 +1,23 @@
+﻿body {    
+    
+    background-image:url("../Img/lightcolor.jpg");
+
+    
+    height: 290px;
+}
+
+h2{
+    text-align:center;
+    color: red;
+}
+p{
+    text-align:center;
+}
+
+.auto-style15{
+    color:white;
+}
+
+.auto-style9{
+    color:white;
+}

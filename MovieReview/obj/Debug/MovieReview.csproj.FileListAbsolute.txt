@@ -1,0 +1,48 @@
+D:\SEM- 4\SecondHalfC#\MovieReview\MovieReview\bin\MovieReview.dll.config
+D:\SEM- 4\SecondHalfC#\MovieReview\MovieReview\bin\MovieReview.dll
+D:\SEM- 4\SecondHalfC#\MovieReview\MovieReview\bin\MovieReview.pdb
+D:\SEM- 4\SecondHalfC#\MovieReview\MovieReview\obj\Debug\MovieReview.csprojResolveAssemblyReference.cache
+D:\SEM- 4\SecondHalfC#\MovieReview\MovieReview\obj\Debug\MovieReview.dll
+D:\SEM- 4\SecondHalfC#\MovieReview\MovieReview\obj\Debug\MovieReview.pdb
+H:\projects\c#\MovieReview\MovieReview\bin\MovieReview.dll.config
+H:\projects\c#\MovieReview\MovieReview\bin\MovieReview.dll
+H:\projects\c#\MovieReview\MovieReview\bin\MovieReview.pdb
+H:\projects\c#\MovieReview\MovieReview\obj\Debug\MovieReview.csprojResolveAssemblyReference.cache
+H:\projects\c#\MovieReview\MovieReview\obj\Debug\MovieReview.dll
+H:\projects\c#\MovieReview\MovieReview\obj\Debug\MovieReview.pdb
+C:\Users\TANVI PATEL\Downloads\MovieReview\MovieReview\bin\MovieReview.dll.config
+C:\Users\TANVI PATEL\Downloads\MovieReview\MovieReview\bin\MovieReview.dll
+C:\Users\TANVI PATEL\Downloads\MovieReview\MovieReview\bin\MovieReview.pdb
+C:\Users\TANVI PATEL\Downloads\MovieReview\MovieReview\obj\Debug\MovieReview.csprojResolveAssemblyReference.cache
+C:\Users\TANVI PATEL\Downloads\MovieReview\MovieReview\obj\Debug\MovieReview.dll
+C:\Users\TANVI PATEL\Downloads\MovieReview\MovieReview\obj\Debug\MovieReview.pdb
+D:\SEM- 4\SecondHalfC#\Project\MovieReview\MovieReview\bin\MovieReview.dll.config
+D:\SEM- 4\SecondHalfC#\Project\MovieReview\MovieReview\bin\MovieReview.dll
+D:\SEM- 4\SecondHalfC#\Project\MovieReview\MovieReview\bin\MovieReview.pdb
+D:\SEM- 4\SecondHalfC#\Project\MovieReview\MovieReview\obj\Debug\MovieReview.dll
+D:\SEM- 4\SecondHalfC#\Project\MovieReview\MovieReview\obj\Debug\MovieReview.pdb
+D:\SEM- 4\SecondHalfC#\Project\MovieReview\MovieReview\obj\Debug\MovieReview.csprojResolveAssemblyReference.cache
+D:\SEM- 4\SecondHalfC#\Project\Final\Final_2\MovieReview\MovieReview\bin\MovieReview.dll.config
+D:\SEM- 4\SecondHalfC#\Project\Final\Final_2\MovieReview\MovieReview\bin\MovieReview.dll
+D:\SEM- 4\SecondHalfC#\Project\Final\Final_2\MovieReview\MovieReview\bin\MovieReview.pdb
+D:\SEM- 4\SecondHalfC#\Project\Final\Final_2\MovieReview\MovieReview\obj\Debug\MovieReview.csprojResolveAssemblyReference.cache
+D:\SEM- 4\SecondHalfC#\Project\Final\Final_2\MovieReview\MovieReview\obj\Debug\MovieReview.dll
+D:\SEM- 4\SecondHalfC#\Project\Final\Final_2\MovieReview\MovieReview\obj\Debug\MovieReview.pdb
+C:\Users\Din\Desktop\MovieReview\MovieReview\bin\MovieReview.dll.config
+C:\Users\Din\Desktop\MovieReview\MovieReview\bin\MovieReview.dll
+C:\Users\Din\Desktop\MovieReview\MovieReview\bin\MovieReview.pdb
+C:\Users\Din\Desktop\MovieReview\MovieReview\obj\Debug\MovieReview.csprojResolveAssemblyReference.cache
+C:\Users\Din\Desktop\MovieReview\MovieReview\obj\Debug\MovieReview.dll
+C:\Users\Din\Desktop\MovieReview\MovieReview\obj\Debug\MovieReview.pdb
+C:\Users\Craig\Desktop\School May - August 2015\C# and .Net\Final Project\Final\MovieReview\MovieReview\MovieReview\bin\MovieReview.dll.config
+C:\Users\Craig\Desktop\School May - August 2015\C# and .Net\Final Project\Final\MovieReview\MovieReview\MovieReview\bin\MovieReview.dll
+C:\Users\Craig\Desktop\School May - August 2015\C# and .Net\Final Project\Final\MovieReview\MovieReview\MovieReview\bin\MovieReview.pdb
+C:\Users\Craig\Desktop\School May - August 2015\C# and .Net\Final Project\Final\MovieReview\MovieReview\MovieReview\obj\Debug\MovieReview.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\School May - August 2015\C# and .Net\Final Project\Final\MovieReview\MovieReview\MovieReview\obj\Debug\MovieReview.dll
+C:\Users\Craig\Desktop\School May - August 2015\C# and .Net\Final Project\Final\MovieReview\MovieReview\MovieReview\obj\Debug\MovieReview.pdb
+F:\School\Semester4\C# and .Net\Final Project\Final\MovieReview\MovieReview\MovieReview\bin\MovieReview.dll.config
+F:\School\Semester4\C# and .Net\Final Project\Final\MovieReview\MovieReview\MovieReview\bin\MovieReview.dll
+F:\School\Semester4\C# and .Net\Final Project\Final\MovieReview\MovieReview\MovieReview\bin\MovieReview.pdb
+F:\School\Semester4\C# and .Net\Final Project\Final\MovieReview\MovieReview\MovieReview\obj\Debug\MovieReview.csprojResolveAssemblyReference.cache
+F:\School\Semester4\C# and .Net\Final Project\Final\MovieReview\MovieReview\MovieReview\obj\Debug\MovieReview.dll
+F:\School\Semester4\C# and .Net\Final Project\Final\MovieReview\MovieReview\MovieReview\obj\Debug\MovieReview.pdb

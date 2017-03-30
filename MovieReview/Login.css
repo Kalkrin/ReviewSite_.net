@@ -1,0 +1,30 @@
+﻿body {
+    background-image:url("../Img/lightcolor.jpg");
+
+}
+
+
+
+h2{
+    text-align:center;
+    color: red;
+}
+
+
+.auto-style6{
+    color:white;
+}
+
+#table1{
+    position: absolute;
+    height: 150px;
+    width: 400px;
+    margin: -100px 0 0 -200px;
+    top: 30%;
+    left: 50%;
+    border: 1px solid red;
+
+ 
+
+}
+    
